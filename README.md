@@ -25,7 +25,7 @@
 <a href="https://instagram.com/dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshadxahmad" height="30" width="40" /></a>
 <a href="https://dribbble.com/dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dilshadxahmad" height="30" width="40" /></a>
 <a href="https://medium.com/@ dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ dilshadxahmad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshadxahmad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dilshadxahmad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dilshadxahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilshadxahmad" height="30" width="40" /></a>
 </p>
 
