@@ -1,4 +1,4 @@
-# Muito prazer, I'm Dilshad 😁
+# Hello, I'm Dilshad 😁
 
 Dilshad Ahmad, a passionate Flutter developer from Lahore, Pakistan 🇵🇰 — crafting beautiful, performant mobile experiences one widget at a time.  
 Experience in mobile development and UI/UX design, working across cross-platform apps with Flutter & Dart, backed by Firebase and cloud services.  
@@ -24,32 +24,16 @@ Take a second to connect — let's grow and build together!
 
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+`App Deployment`
 
-## 📚 What am I learning?
-
-![flutter_bloc](https://img.shields.io/badge/Flutter_Bloc-02569B?style=flat&logo=flutter&logoColor=white)
-![webrtc](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-![deployment](https://img.shields.io/badge/App_Deployment-34A853?style=flat&logo=google-play&logoColor=white)
-
----
-
-## 🚀 What am I working on?
-
-* Building [**Fave Films App**](https://github.com/dilshadxahmad/fave-films-app-provider) — a Flutter app using Provider for state management
-* Exploring real-time communication with **WebRTC**
-* Leveling up with **Flutter Bloc** architecture
-
----
-
-## 🌟 What do I want to do?
-
-* [x] Ship a full Flutter app with clean architecture
-* [ ] Master Flutter Bloc & advanced state management
-* [ ] Build a WebRTC-powered video calling app
-* [ ] Write Flutter tutorials on Medium
+![appstoreconnect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat&logo=app-store&logoColor=white)
+![playconsole](https://img.shields.io/badge/Play_Console-34A853?style=flat&logo=google-play&logoColor=white)
 
 ---
 
